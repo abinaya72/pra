@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0;
+}
+.one{
+    background-color: rgb(218, 169, 233);
+}
+.custom{
+    background-color: rgb(220, 233, 161);
+}
+.custom1{
+    background-color: rgb(240, 175, 175);
+}
+.custom2{
+    background-color: rgb(44, 172, 97);
+}
+
+.custom3{
+    background-color: rgb(165, 136, 136);
+    
+}
+.log{
+    text-align: center;
+}
+.t{
+    background-color:rgb(218, 169, 233);
+    
+
+} 
+.ubg{
+    border:solid black 2px;
+    border-radius: 5%;
+    height: 300px;
+    width: 400px;
+    margin: 0 auto;
+}
